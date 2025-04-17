@@ -147,7 +147,10 @@ optional arguments:
   -i             interactive mode, get url and file name from the command line
 ```
 
+## Tips
 
+- Chrome 需要打开开发者模式
+- Macbook 需要安装 ffmpeg
 
 ## 工作原理
 
